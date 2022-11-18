@@ -1,0 +1,28 @@
+.cont{
+    color: white;
+    background-color: rgba(255, 255, 255, 0.103);
+    backdrop-filter: blur(6px);
+    border-right: 3px solid rgba(255, 255, 255, 0.759);
+    border-left: 1px solid rgba(255, 255, 255, 0.759);
+    border-radius: 6px;
+    height: 250px;
+}
+.main{
+    background-image: url(https://t4.ftcdn.net/jpg/01/35/62/19/360_F_135621912_XnktftiHhypCEz8Jbf71JSXPNWlSf3x3.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.btn{
+    background-color: rgba(255, 255, 255, 0.212);
+    backdrop-filter: blur(6px);
+    margin-right: 20px;
+    border-right: 1px solid rgba(255, 255, 255, 0.759);
+    border-left: 1px solid rgba(255, 255, 255, 0.759);
+}
+.btn:hover{
+    border-right: 1px solid rgba(0, 0, 0);
+    background-color: rgba(255, 255, 255,0.6);
+    border-left: 1px solid rgba(0, 0, 0);
+    backdrop-filter: blur(16px);
+}
